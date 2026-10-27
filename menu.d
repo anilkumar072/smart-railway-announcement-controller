@@ -1,0 +1,11 @@
+.\menu.o: menu.c
+.\menu.o: C:\Keil_v5\ARM\Inc\Philips\LPC21xx.h
+.\menu.o: types.h
+.\menu.o: all_peripheral_defines.h
+.\menu.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\menu.o: lcd.h
+.\menu.o: delay.h
+.\menu.o: kpm.h
+.\menu.o: rtc.h
+.\menu.o: trainDB.h
+.\menu.o: menu.h
