@@ -1,5 +1,6 @@
 # smart-railway-announcement-controller
 An embedded systems project using ARM7 LPC2148 to manage railway platform time display and train arrival/departure announcements using RTC, LCD, keypad, interrupt handling, LEDs, and buzzer.
+
 🚆 Smart Railway Platform Controller
 
 An embedded-systems project that simulates a smart railway platform information and announcement system using the LPC2148 (ARM7) microcontroller. It combines a real-time clock (RTC), a 16×2 LCD, a 4×4 keypad, an administrator menu, train schedule data, status LEDs, a buzzer, and an external-interrupt-driven admin switch.
